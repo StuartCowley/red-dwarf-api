@@ -1,0 +1,241 @@
+{
+  "numberedDirectives": [
+    {
+      "directiveNumber": "003",
+      "content": "By joining Star Corps each individual tacitly consents to give up his inalienable rights to life, liberty and adequate toilet facilities.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "From the Red Dward Log Book (1996)"
+    },
+    {
+      "directiveNumber": "005",
+      "content": "Computers guilty of gross negligence, leading to the endangerment of personnel, may be replaced by a backup computer.",
+      "references": [
+        {
+          "series": 2,
+          "episodeNumber": 5,
+          "episodeName": "Queeg"
+        }
+      ],
+      "notes": "Cited as an article"
+    },
+    {
+      "directiveNumber": "112",
+      "content": "A living crew member always outranks a mechanoid.",
+      "references": [
+        {
+          "series": 5,
+          "episodeNumber": 3,
+          "episodeName": "Terrorform"
+        }
+      ],
+      "notes": "Used in a deleted scene"
+    },
+    {
+      "directiveNumber": "121",
+      "content": "No food or liquids around in the work stations.",
+      "references": [
+        {
+          "series": 10,
+          "episodeNumber": 4,
+          "episodeName": "Entangled"
+        }
+      ],
+      "notes": "Labeled as a health and safety protocol instead of a space corps directive"
+    },
+    {
+      "directiveNumber": "142",
+      "content": "In a hostage demand situation, a hologrammatic crew member is entirely expendable.",
+      "references": [
+        {
+          "series": 5,
+          "episodeNumber": 3,
+          "episodeName": "Terrorform"
+        }
+      ],
+      "notes": "Used in a deleted scene"
+    },
+    {
+      "directiveNumber": "147",
+      "content": "Crew members are expressly forbidden from leaving their vessel except on permission of a permit. Permits can only be issued by the Chief Navigation Officer, who is expressly forbidden from issuing them except on production of a permit.",
+      "references": [
+        {
+          "series": 7,
+          "episodeNumber": 3,
+          "episodeName": "Ouroboros"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "175",
+      "content": "No running in the corridors.",
+      "references": [
+        {
+          "series": 10,
+          "episodeNumber": 4,
+          "episodeName": "Entangled"
+        }
+      ],
+      "notes": "Quoted as a protocol by Rimmer, this was a rare occasion where he actually got a SCD right. At the time Kryten was going off to fetch some clothes for a naked Irene Edgington"
+    },
+    {
+      "directiveNumber": "195",
+      "content": "In an emergency power situation, a hologrammatic crew member must lay down his life in order that the living crew-members might survive.",
+      "references": [
+        {
+          "series": 4,
+          "episodeNumber": 4,
+          "episodeName": "White hole"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "132",
+      "content": "Crew members in quarantine must be provided with minimum leisure facilities.",
+      "references": [
+        {
+          "series": 5,
+          "episodeNumber": 4,
+          "episodeName": "Quarantine"
+        }
+      ],
+      "notes": "Rimmer uses this as justification to provide: 'a chess set with 31 missing pieces, a knitting magazine with a pull-out special on crocheted hats, a puzzle magazine with all the crosswords completed and a video of the excellent cinematic treat, 'Wall-Papering, Painting And Stippling — A DIY Guide'."
+    },
+    {
+      "directiveNumber": "349",
+      "content": "Any officer found to have been slaughtered and replaced by a shape-changing chameleonic life form shall forfeit all pension rights.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "From the Red Dward Log Book (1996)"
+    },
+    {
+      "directiveNumber": "497",
+      "content": "When a crew member has run out of credits, food or drink may not be supplied until the balance is restored.",
+      "references": [
+        {
+          "series": 2,
+          "episodeNumber": 5,
+          "episodeName": "Queeg"
+        }
+      ],
+      "notes": "Cited as an article"
+    },
+    {
+      "directiveNumber": "592",
+      "content": "In an emergency situation involving two or more officers of equal rank, seniority will be given to whichever officer can programme a VCR.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "From the Red Dward Log Book (1996). Also included on the DVD for Series 8"
+    },
+    {
+      "directiveNumber": "595",
+      "content": "A (never actually stated) quarantine regulation, probably something like 'any member of the crew who has been exposed to a potentially dangerous illness must be quarantined to protect the rest of the crew'",
+      "references": [
+        {
+          "series": 5,
+          "episodeNumber": 4,
+          "episodeName": "Quarantine"
+        }
+      ],
+      "notes": "Referred to by Rimmer as justification for quarantining Lister, Cat and Kryten after encountering the infected hologram of Dr. Hildegard Lanstrom at a Space Corps research base"
+    },
+    {
+      "directiveNumber": "596",
+      "content": "The crews files are for the eyes of the Captain only.",
+      "references": [
+        {
+          "series": 1,
+          "episodeNumber": 4,
+          "episodeName": "Waiting for God"
+        },
+        {
+          "series": 9,
+          "episodeNumber": 2,
+          "episodeName": "Back to Earth Part 2"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "597",
+      "content": "One berth per registered crew member.",
+      "references": [
+        {
+          "series": 5,
+          "episodeNumber": 4,
+          "episodeName": "Quarantine"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "699",
+      "content": "Crew members may demand a re-screening after five days in quarantine showing no ill effect.",
+      "references": [
+        {
+          "series": 5,
+          "episodeNumber": 4,
+          "episodeName": "Quarantine"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "712",
+      "content": "All new officers must have an accolade on promotion to be fully accredited as an officer.",
+      "references": [
+        {
+          "series": 11,
+          "episodeNumber": 4,
+          "episodeName": "Officer Rimmer"
+        }
+      ],
+      "notes": "When Rimmer found himself temporarily made an officer through an act of gross deception, Rimmer told Kryten that he wanted his own accolade to be held in the 'Hall of Heroes' with a six gun salute, and an hour long tribute to himself"
+    },
+    {
+      "directiveNumber": "723",
+      "content": "Terraformers are expressly forbidden from recreating Swindon.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "From the Red Dward Log Book (1996). In the United States, 'Swindon' is changed to 'Cleveland'. Also included on the DVD for Series 8"
+    }
+  ],
+  "unnumberedDirectives": [
+    {
+      "content": "It is our primary overriding duty to contact other life forms, exchange information, and, wherever possible, bring them home.",
+      "series": 3,
+      "episodeNumber": 3,
+      "episodeName": "Polymorph",
+      "notes": "Listed as a primary overriding duty"
+    },
+    {
+      "content": "In order to prevent gender ambiguity, all prisoners without a penis will be classified as female.",
+      "series": 8,
+      "episodeNumber": 2,
+      "episodeName": "Back in the Red (Part Two)",
+      "notes": ""
+    }
+  ]
+}
