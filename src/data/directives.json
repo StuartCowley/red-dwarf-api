@@ -1,7 +1,7 @@
 {
   "numberedDirectives": [
     {
-      "directiveNumber": "003",
+      "directiveNumber": "3",
       "content": "By joining Star Corps each individual tacitly consents to give up his inalienable rights to life, liberty and adequate toilet facilities.",
       "references": [
         {
@@ -10,10 +10,10 @@
           "episodeName": null
         }
       ],
-      "notes": "From the Red Dward Log Book (1996)"
+      "notes": "From the Red Dwarf Log Book (1996)"
     },
     {
-      "directiveNumber": "005",
+      "directiveNumber": "5",
       "content": "Computers guilty of gross negligence, leading to the endangerment of personnel, may be replaced by a backup computer.",
       "references": [
         {
@@ -118,7 +118,7 @@
           "episodeName": null
         }
       ],
-      "notes": "From the Red Dward Log Book (1996)"
+      "notes": "From the Red Dwarf Log Book (1996)"
     },
     {
       "directiveNumber": "497",
@@ -142,7 +142,7 @@
           "episodeName": null
         }
       ],
-      "notes": "From the Red Dward Log Book (1996). Also included on the DVD for Series 8"
+      "notes": "From the Red Dwarf Log Book (1996). Also included on the DVD for Series 8"
     },
     {
       "directiveNumber": "595",
@@ -219,23 +219,312 @@
           "episodeName": null
         }
       ],
-      "notes": "From the Red Dward Log Book (1996). In the United States, 'Swindon' is changed to 'Cleveland'. Also included on the DVD for Series 8"
+      "notes": "From the Red Dwarf Log Book (1996). In the United States, 'Swindon' is changed to 'Cleveland'. Also included on the DVD for Series 8"
+    },
+    {
+      "directiveNumber": "997",
+      "content": "Work done by an officer's doppelganger in a parallel universe cannot be claimed as overtime.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "From the Red Dwarf Log Book (1996)"
+    },
+    {
+      "directiveNumber": "1694",
+      "content": "During temporal disturbances, no questions shall be raised about any crew member whose time-sheet shows him or her clocking off 187 years before he clocked on.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "From the Red Dwarf Log Book (1996)"
+    },
+    {
+      "directiveNumber": "1742",
+      "content": "No member of the Corps should ever report for active duty in a ginger toupee.",
+      "references": [
+        {
+          "series": 6,
+          "episodeNumber": 1,
+          "episodeName": "Psirens"
+        }
+      ],
+      "notes": "Also appears in thhe Red Dwarf Log Book (1996)"
+    },
+    {
+      "directiveNumber": "1743",
+      "content": "No registered vessel should attempt to traverse an asteroid belt without deflectors.",
+      "references": [
+        {
+          "series": 6,
+          "episodeNumber": 1,
+          "episodeName": "Psirens"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "5796",
+      "content": "No officer above the rank of mess sergeant is permitted to go into combat with pierced nipples.",
+      "references": [
+        {
+          "series": 6,
+          "episodeNumber": 1,
+          "episodeName": "Psirens"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "5797",
+      "content": "A (never actually stated) regulation relating to a crew member being unable to enter the ship for the safety of the crew when in an area of chameleonic lifeforms, although it could be that Kryten just decided to give up arguing with Rimmer rather than Rimmer quoting a valid directive.",
+      "references": [
+        {
+          "series": 6,
+          "episodeNumber": 1,
+          "episodeName": "Psirens"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "7214",
+      "content": "To preserve morale during long-haul missions, all male officers above the rank of First Technician must, during panto season, be ready to put on a dress and a pair of false breasts.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "From the Red Dwarf Log Book (1996)"
+    },
+    {
+      "directiveNumber": "7713",
+      "content": "The log must be kept up to date at all times with current service records, complete mission data and a comprehensive and accurate list of all crew birthdays so that senior officers may avoid bitter and embarrassing silences when meeting in the corridor with subordinates who have not received a card.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "From the Red Dwarf Log Book (1996)"
+    },
+    {
+      "directiveNumber": "34124",
+      "content": "No officer with false teeth should attempt oral sex in zero gravity.",
+      "references": [
+        {
+          "series": 6,
+          "episodeNumber": 2,
+          "episodeName": "Legion"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "43872",
+      "content": "Suntans will be worn during off-duty hours only.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "From the Red Dwarf Log Book (1996)"
+    },
+    {
+      "directiveNumber": "68250",
+      "content": "A (never actually quoted) regulation, that is known to be impossible without at least one live chicken, a rabbi and involves sacrificing poultry, presumably the Jewish ritual 'Kapparot'.",
+      "references": [
+        {
+          "series": 6,
+          "episodeNumber": 4,
+          "episodeName": "Emohawk: Polymorph II"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "76239",
+      "content": "Extreme caution should be taken on the naturist deck when peeling carrots.",
+      "references": [
+        {
+          "series": 13,
+          "episodeNumber": 1,
+          "episodeName": "The Promised Land"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "196156",
+      "content": "Any officer caught sniffing the saddle of the exercise bicycle in the women's gym will be discharged without trial.",
+      "references": [
+        {
+          "series": 6,
+          "episodeNumber": 5,
+          "episodeName": "Rimmerworld"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "directiveNumber": "1947945",
+      "content": "A mechanoid may issue orders to human crew members if the lives of said crew members are directly or indirectly under threat from a hitherto unperceived source and there is inadequate time to explain the precise nature of the enormous and most imminent death threat.",
+      "references": [
+        {
+          "series": 5,
+          "episodeNumber": 6,
+          "episodeName": "Back To Reality"
+        }
+      ],
+      "notes": "Quoted by Kryten in the original script for 'Back to Reality'"
+    },
+    {
+      "directiveNumber": "5724368217968B",
+      "content": "At all times show your allegiance to Red Dwarf in the US by picking up your phone and calling your local public television station with your pledge.",
+      "references": [
+        {
+          "series": null,
+          "episodeNumber": null,
+          "episodeName": null
+        }
+      ],
+      "notes": "Included on the DVD for Series 8"
+    },
+    {
+      "directiveNumber": "39436175880932/B",
+      "content": "All nations attending the conference are only allocated one parking space.",
+      "references": [
+        {
+          "series": 6,
+          "episodeNumber": 3,
+          "episodeName": "Gunmen of the Apocalypse"
+        }
+      ],
+      "notes": "Given the title 'The All Nations Agreement'"
+    },
+    {
+      "directiveNumber": "39436175880932/C",
+      "content": "POW's have a right to non-violent constraint.",
+      "references": [
+        {
+          "series": 6,
+          "episodeNumber": 3,
+          "episodeName": "Gunmen of the Apocalypse"
+        }
+      ],
+      "notes": ""
     }
   ],
   "unnumberedDirectives": [
     {
       "content": "It is our primary overriding duty to contact other life forms, exchange information, and, wherever possible, bring them home.",
-      "series": 3,
-      "episodeNumber": 3,
-      "episodeName": "Polymorph",
+      "references": [
+        {
+          "series": 3,
+          "episodeNumber": 3,
+          "episodeName": "Polymorph"
+        }
+      ],
       "notes": "Listed as a primary overriding duty"
     },
     {
       "content": "In order to prevent gender ambiguity, all prisoners without a penis will be classified as female.",
-      "series": 8,
-      "episodeNumber": 2,
-      "episodeName": "Back in the Red (Part Two)",
+      "references": [
+        {
+          "series": 8,
+          "episodeNumber": 2,
+          "episodeName": "Back in the Red Part 2"
+        }
+      ],
       "notes": ""
+    },
+    {
+      "content": "Space Corps super chimps committing acts of indecency in zero gravity will lose all banana privileges.",
+      "references": [
+        {
+          "series": 9,
+          "episodeNumber": 2,
+          "episodeName": "Back To Earth Part 2"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "content": "Derelict ships have to be made safe before the senior officer ventures on-board.",
+      "references": [
+        {
+          "series": 13,
+          "episodeNumber": 1,
+          "episodeName": "The Promised Land"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "content": "Any unnecessary ship should dispose of itself by flying straight into the nearest sun.",
+      "references": [
+        {
+          "series": 10,
+          "episodeNumber": 2,
+          "episodeName": "Fathers & Suns"
+        }
+      ],
+      "notes": "Stated as JMC policy pursuant to the Space Pollution Act"
+    },
+    {
+      "content": "During disposal, the ship's nuclear reactor should be fired into a black hole, along with the ship's hologram.",
+      "references": [
+        {
+          "series": 13,
+          "episodeNumber": 1,
+          "episodeName": "The Promised Land"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "content": "Individually, holograms may be off-lined and erased, with their hard-drives shot out and detonated by nuclear fusion.",
+      "references": [
+        {
+          "series": 9,
+          "episodeNumber": 1,
+          "episodeName": "Back to Earth Part 1"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "content": "The on-board computer is tasked with appraising a ship's worth to the Jupiter Mining Corporation and decommissioning it if it serves no useful purpose. This does not happen while a ship has crew performing essential duties, or even duties to an adequate level.",
+      "references": [
+        {
+          "series": 13,
+          "episodeNumber": 1,
+          "episodeName": "The Promised Land"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "content": "No ship may be decommissioned that contains living crew members who are listed on the manifest.",
+      "references": [
+        {
+          "series": 13,
+          "episodeNumber": 1,
+          "episodeName": "The Promised Land"
+        }
+      ],
+      "notes": "Criminal acts, including violating quarantines, forfeit crew privileges in such considerations, such as rights of residency."
     }
   ]
 }
