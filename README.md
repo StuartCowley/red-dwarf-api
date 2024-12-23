@@ -2,6 +2,11 @@
 
 A simple express app serving space corps directives, searchable by number, word or series
 
+## Running
+```
+npm run start
+```
+
 WORK IN PROGRESS
 
 ## Endpoints
